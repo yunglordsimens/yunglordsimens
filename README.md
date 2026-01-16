@@ -8,8 +8,8 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
 
 | Year | Institution | Degree |
 | :--- | :--- | :--- |
-| **2023–Present** | **AAAD / UMPRUM** (Prague) | Studio of Typography & Visual Communication |
-| **2020–2024** | **KhNURE** (Kharkiv) | BSc Computer Science (Publishing & Printing) |
+| **2023–Present** | **AAAD / UMPRUM** (Prague) | Visual Communication |
+| **2020–2024** | **KhNURE** (Kharkiv) | BSc Computer Science |
 
 ### / SELECTED WORKS
 
