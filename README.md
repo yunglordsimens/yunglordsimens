@@ -13,37 +13,37 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
 
 ### / SELECTED WORKS
 
-<table style="border: none;">
+<table style="border: none; width: 100%;">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">FITINN REDESIGN</h4>
+      <a href="https://github.com/yunglordsimens/fitinn-redesign">
+        <img src="https://raw.githubusercontent.com/yunglordsimens/fitinn-redesign/main/preview_FITINN_Editorial.gif" width="100%" style="border-radius: 5px;" alt="FitInn Preview" />
+      </a>
+      <p align="center">Astro 5 & React 19 Performance Concept</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">MASO.CORP</h4>
+      <a href="https://github.com/yunglordsimens/maso.corp">
+        <img src="https://raw.githubusercontent.com/yunglordsimens/maso.corp/main/preview_login_main.gif" width="100%" style="border-radius: 5px;" alt="Maso Corp Preview" />
+      </a>
+      <p align="center">Speculative B2B System & Print Tool</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">AUDIOVISUAL RESEARCH</h4>
       <a href="https://github.com/yunglordsimens/audiovisual">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/audiovisual/main/preview.png" width="100%" style="border-radius: 5px;" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/audiovisual/main/preview.gif" width="100%" style="border-radius: 5px;" alt="Audiovisual Preview" />
       </a>
       <p align="center">Interactive D3.js & p5.js Archive</p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">GLAGOLITISCHE FRAGMENTE</h4>
       <a href="https://github.com/yunglordsimens/haase">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/haase/main/preview.gif" width="100%" style="border-radius: 5px;" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/haase/main/preview.png" width="100%" style="border-radius: 5px;" alt="Haase Preview" />
       </a>
       <p align="center">Book Digitalization (UMPRUM)</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">JS EDUCATIONAL PLATFORM</h4>
-      <a href="https://github.com/yunglordsimens/cursa2023">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/cursa2023/main/preview.gif" width="100%" style="border-radius: 5px;" />
-      </a>
-      <p align="center">Interactive JS Textbook</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">MASHA 4RNBAY EVENT</h4>
-      <a href="https://github.com/yunglordsimens/mashenka">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/mashenka/main/preview.gif" width="100%" style="border-radius: 5px;" />
-      </a>
-      <p align="center">Experimental Web Brutalism</p>
     </td>
   </tr>
 </table>
@@ -59,12 +59,12 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
 
 ### / TECH STACK
 
-**Creative Coding**
-p5.js · D3.js · Three.js · WebGL
+**Creative Coding & Visuals**
+p5.js · D3.js · Three.js · WebGL · Chart.js
 
-**Development**
-JavaScript (ES6+) · HTML5 · CSS3 · Git
+**Engineering & Frameworks**
+Astro · React · Tailwind CSS · Framer Motion · JavaScript (ES6+)
 
 ---
 
-**[Email](mailto:4rnbay@email.com)** · **[Instagram](https://instagram.com/4rnbay)**
+**[Email](mailto:4rnbay@gmail.com)** · **[Instagram](https://instagram.com/4rnbay)**
