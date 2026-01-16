@@ -4,9 +4,7 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
 
 <br>
 
-<marquee scrollamount="10" direction="left" style="font-family: monospace; color: #666;">
-*** OPEN FOR COLLABORATIONS *** UMPRUM STUDIO OF TYPOGRAPHY *** CREATIVE CODING *** WEB ARCHIVES ***
-</marquee>
+> `*** OPEN FOR COLLABORATIONS *** UMPRUM STUDIO OF TYPOGRAPHY *** CREATIVE CODING *** WEB ARCHIVES ***`
 
 <br>
 
