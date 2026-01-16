@@ -11,14 +11,14 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
     <td width="50%" valign="top">
       <h3 align="center">AUDIOVISUAL RESEARCH</h3>
       <a href="https://github.com/yunglordsimens/audiovisual">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/audiovisual/main/preview.gif" width="100%" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/audiovisual/main/preview.png" width="100%" />
       </a>
       <p align="center">Interactive D3.js & p5.js Archive</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">GLAGOLITISCHE FRAGMENTE</h3>
       <a href="https://github.com/yunglordsimens/haase">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/haase/main/preview.png" width="100%" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/haase/main/preview.gif" width="100%" />
       </a>
       <p align="center">Typography Digitalization (UMPRUM)</p>
     </td>
