@@ -17,14 +17,14 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
     <td width="50%" valign="top">
       <h4 align="center">AUDIOVISUAL RESEARCH</h4>
       <a href="https://github.com/yunglordsimens/audiovisual">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/audiovisual/main/preview.gif" width="100%" style="border-radius: 5px;" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/audiovisual/main/preview.png" width="100%" style="border-radius: 5px;" />
       </a>
       <p align="center">Interactive D3.js & p5.js Archive</p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">GLAGOLITISCHE FRAGMENTE</h4>
       <a href="https://github.com/yunglordsimens/haase">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/haase/main/preview.png" width="100%" style="border-radius: 5px;" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/haase/main/preview.gif" width="100%" style="border-radius: 5px;" />
       </a>
       <p align="center">Book Digitalization (UMPRUM)</p>
     </td>
@@ -33,14 +33,14 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
     <td width="50%" valign="top">
       <h4 align="center">JS EDUCATIONAL PLATFORM</h4>
       <a href="https://github.com/yunglordsimens/cursa2023">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/cursa2023/main/preview.png" width="100%" style="border-radius: 5px;" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/cursa2023/main/preview.gif" width="100%" style="border-radius: 5px;" />
       </a>
       <p align="center">Interactive JS Textbook</p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">MASHA 4RNBAY EVENT</h4>
       <a href="https://github.com/yunglordsimens/mashenka">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/mashenka/main/preview.png" width="100%" style="border-radius: 5px;" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/mashenka/main/preview.gif" width="100%" style="border-radius: 5px;" />
       </a>
       <p align="center">Experimental Web Brutalism</p>
     </td>
