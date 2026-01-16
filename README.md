@@ -1,6 +1,9 @@
-# MASHA FOREIGN / 4RNBAY
+# MASHA FOREIGN
 
-**MARIA CHERNOBAY / Foreign Baby** 
+### MARIA CHERNOBAY
+
+Multidisciplinary Designer & Developer. Focus on digital typography, creative coding, and web archives. Based in Prague.
+*aka 4rnbay*
 
 Multidisciplinary Designer & Developer. Focus on digital typography, creative coding, and web archives. Based in Prague.
 
