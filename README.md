@@ -20,7 +20,7 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
       <a href="https://github.com/yunglordsimens/haase">
         <img src="https://raw.githubusercontent.com/yunglordsimens/haase/main/preview.gif" width="100%" />
       </a>
-      <p align="center">Typography Digitalization (UMPRUM)</p>
+      <p align="center">Book Digitalization (UMPRUM)</p>
     </td>
   </tr>
 </table>
