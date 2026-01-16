@@ -30,4 +30,4 @@ JavaScript (ES6+) · HTML5 · CSS3 · Git
 
 ---
 
-**[Email](mailto:твой@email.com)** · **[Instagram](https://instagram.com/4rnbay)**
+**[Email](4rnbay@email.com)** · **[Instagram](https://instagram.com/4rnbay)**
