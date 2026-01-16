@@ -5,8 +5,6 @@
 Multidisciplinary Designer & Developer. Focus on digital typography, creative coding, and web archives. Based in Prague.
 *aka 4rnbay*
 
-Multidisciplinary Designer & Developer. Focus on digital typography, creative coding, and web archives. Based in Prague.
-
 <br>
 
 > `*** OPEN FOR COLLABORATIONS *** UMPRUM STUDIO OF TYPOGRAPHY *** CREATIVE CODING *** WEB ARCHIVES ***`
