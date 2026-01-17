@@ -25,7 +25,7 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
     <td width="50%" valign="top">
       <h4 align="center">MASO.CORP</h4>
       <a href="https://github.com/yunglordsimens/maso.corp">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/maso.corp/main/preview_login_main.gif" width="100%" style="border-radius: 5px;" alt="Maso Corp Preview" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/maso.corp/main/preview_login_main_guide.gif" width="100%" style="border-radius: 5px;" alt="Maso Corp Preview" />
       </a>
       <p align="center">Speculative B2B System & Print Tool</p>
     </td>
