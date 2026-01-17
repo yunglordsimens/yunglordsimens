@@ -18,7 +18,7 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
     <td width="50%" valign="top">
       <h4 align="center">FITINN REDESIGN</h4>
       <a href="https://github.com/yunglordsimens/fitinn-redesign">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/fitinn-redesign/main/preview_FITINN_Editorial.gif" width="100%" style="border-radius: 5px;" alt="FitInn Preview" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/fitinn-redesign/master/preview_FITINN_Editorial.gif" width="100%" style="border-radius: 5px;" alt="FitInn Preview" />
       </a>
       <p align="center">Astro 5 & React 19 Performance Concept</p>
     </td>
