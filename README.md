@@ -46,6 +46,22 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
       <p align="center">Book Digitalization (UMPRUM)</p>
     </td>
   </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">NURE Website</h4>
+      <a href="https://github.com/yunglordsimens/nure-site">
+        <img src="https://raw.githubusercontent.com/yunglordsimens/fitinn-redesign/master/preview_FITINN_Editorial.gif" width="100%" style="border-radius: 5px;" alt="NURE Preview" />
+      </a>
+      <p align="center">Astro 5 & Headless WordPress Redesign & Rebuild</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">-----</h4>
+      <a href="https://github.com/yunglordsimens/------">
+        <img src="https://raw.githubusercontent.com/yunglordsimens/maso.corp/main/-----.gif" width="100%" style="border-radius: 5px;" alt="------" />
+      </a>
+      <p align="center">Speculative B2B System & Print Tool</p>
+    </td>
+  </tr>
 </table>
 
 ---
