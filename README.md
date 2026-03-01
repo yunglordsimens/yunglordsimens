@@ -59,7 +59,7 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
       <a href="https://github.com/yunglordsimens/------">
         <img src="https://raw.githubusercontent.com/yunglordsimens/maso.corp/main/-----.gif" width="100%" style="border-radius: 5px;" alt="------" />
       </a>
-      <p align="center">Speculative B2B System & Print Tool</p>
+      <p align="center">-------</p>
     </td>
   </tr>
 </table>
