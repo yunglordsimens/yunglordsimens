@@ -59,11 +59,11 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
       <p align="center"><b>SaaS Prototype</b><br>WebGL, Web Audio API, Canvas</p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">VAPE STOREFRONT (Название магазина)</h4>
+      <h4 align="center">PUFFMI STOREFRONT</h4>
       <a href="https://github.com/yunglordsimens/vape-shop">
          <img src="https://via.placeholder.com/800x450/111111/444444?text=E-Commerce+Concept" width="100%" style="border-radius: 5px;" alt="Vape Shop Preview" />
       </a>
-      <p align="center"><b>E-Commerce Experience</b><br>Next.js / React, Cart Logic</p>
+      <p align="center"><b>High-Conversion Commerce</b><br>Next.js / Next.js 15, GSAP, React State</p>
     </td>
   </tr>
 </table>
