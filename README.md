@@ -20,7 +20,7 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
     <td width="50%" valign="top">
       <h4 align="center">KhNURE DIGITAL ECOSYSTEM</h4>
       <a href="https://github.com/yunglordsimens/nure-site">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/hnure-site/main/preview_khnure_main.gif" width="100%" style="border-radius: 5px;" alt="KhNURE Preview" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/nure-site/main/preview_khnure_main.gif" width="100%" style="border-radius: 5px;" alt="KhNURE Preview" />
       </a>
       <p align="center"><b>Production Architecture</b><br>Astro 5, Headless WP, TypeScript</p>
     </td>
