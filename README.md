@@ -54,7 +54,7 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
     <td width="50%" valign="top">
       <h4 align="center">SINEWAVE™ VISUALIZER</h4>
       <a href="https://github.com/yunglordsimens/audiovisual">
-        <img src="https://via.placeholder.com/800x450/111111/444444?text=SaaS+Prototype" width="100%" style="border-radius: 5px;" alt="AudioVisual Preview" />
+        <img src="https://raw.githubusercontent.com/yunglordsimens/audiovisual/main/preview.png" width="100%" style="border-radius: 5px;" alt="AudioVisual Preview" />
       </a>
       <p align="center"><b>SaaS Prototype</b><br>WebGL, Web Audio API, Canvas</p>
     </td>
