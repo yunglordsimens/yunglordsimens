@@ -17,6 +17,16 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
 
 <table style="border: none; width: 100%;">
   <tr>
+    <td colspan="2" valign="top">
+      <h4 align="center">UMPRUM TYPE</h4>
+      <a href="https://typoumprum.cz">
+        <img src="https://raw.githubusercontent.com/yunglordsimens/umprumtype/main/.github/readme/preview.gif" width="100%" style="border-radius: 5px;" alt="UMPRUM Type Preview" />
+      </a>
+      <p align="center"><b>Type Archive of the UMPRUM Studio of Typography</b><br>50 typefaces · kinetic home · live specimens · custom CMS<br>Astro 6, React 19, Canvas, Decap CMS<br><a href="https://typoumprum.cz">typoumprum.cz</a> · <a href="https://github.com/yunglordsimens/umprumtype">source</a></p>
+    </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h4 align="center">KhNURE DIGITAL ECOSYSTEM</h4>
       <a href="https://github.com/yunglordsimens/nure-site">
@@ -82,4 +92,4 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
 * **Engineering & Architecture:** Astro 5 · React 19 · Next.js · TypeScript
 * **Creative Coding & Physics:** React Three Fiber (R3F) · WebGL · GSAP · Canvas API
 * **Styling & UI:** Tailwind CSS v4 · Headless UI · CSS Grid
-* **Tooling:** Headless CMS (WordPress) · JSON Architectures · Internal Generators
+* **Tooling:** Headless CMS (WordPress, Decap) · JSON Architectures · Internal Generators
