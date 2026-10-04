@@ -27,6 +27,16 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
   </tr>
 
   <tr>
+    <td colspan="2" valign="top">
+      <h4 align="center">6000OVECEK × EVRO661</h4>
+      <a href="https://evro661.vercel.app">
+        <img src="https://raw.githubusercontent.com/yunglordsimens/evro661/main/.github/readme/preview.gif" width="100%" style="border-radius: 5px;" alt="6000ovecek × EVRO661 Preview" />
+      </a>
+      <p align="center"><b>Charity Event Site · Strahov Stadium, Prague 2026</b><br>3D barn-door entrance · lineup with artist panels · UA / EN / CZ · proceeds fund FPV drones for Ukraine<br>Three.js, WebGL post-processing, Vanilla JS<br><a href="https://evro661.vercel.app">evro661.vercel.app</a> · <a href="https://github.com/yunglordsimens/evro661">source</a></p>
+    </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h4 align="center">KhNURE DIGITAL ECOSYSTEM</h4>
       <a href="https://github.com/yunglordsimens/nure-site">
@@ -42,7 +52,7 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
       <p align="center"><b>Speculative B2B Tooling</b><br>Grid Systems, Vanilla JS, Chart.js</p>
     </td>
   </tr>
-  
+
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">FITINN REDESIGN</h4>
@@ -52,31 +62,22 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
       <p align="center"><b>High-Performance Concept</b><br>Astro 5, React 19, Tailwind v4</p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">UMPRUM MAP ECOSYSTEM</h4>
-      <a href="https://github.com/yunglordsimens/umprum-partner-map">
-        <img src="https://raw.githubusercontent.com/yunglordsimens/umprum-partner-map/main/preview_map.gif" width="100%" style="border-radius: 5px;" alt="UMPRUM Map Preview" />
-      </a>
-      <p align="center"><b>Internal Tools & JSON Architecture</b><br>Vanilla JS, Custom Generators</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
       <h4 align="center">SINEWAVE™ VISUALIZER</h4>
       <a href="https://github.com/yunglordsimens/audiovisual">
         <img src="https://raw.githubusercontent.com/yunglordsimens/audiovisual/main/preview.png" width="100%" style="border-radius: 5px;" alt="AudioVisual Preview" />
       </a>
       <p align="center"><b>SaaS Prototype</b><br>WebGL, Web Audio API, Canvas</p>
     </td>
-    <td width="50%" valign="top">
-      <h4 align="center">PUFFMI STOREFRONT</h4>
-      <a href="https://github.com/yunglordsimens/puffmi-next-redesign">
-         <img src="https://via.placeholder.com/800x450/111111/444444?text=E-Commerce+Concept" width="100%" style="border-radius: 5px;" alt="Puffmi Preview" />
-      </a>
-      <p align="center"><b>High-Conversion Commerce</b><br>Next.js / Next.js 15, GSAP, React State</p>
-    </td>
   </tr>
 </table>
+
+### / MORE WORK
+
+* **[UMPRUM Map Ecosystem](https://yunglordsimens.github.io/umprum-partner-map/)** — interactive partner map + coordinate generator for staff · Vanilla JS, JSON · [source](https://github.com/yunglordsimens/umprum-partner-map)
+* **[Glagolitische Fragmente](https://yunglordsimens.github.io/haase/)** — digitalization of the book with custom typography, UMPRUM Studio of Typography · [source](https://github.com/yunglordsimens/haase)
+* **[Cigarette Archive](https://yunglordsimens.github.io/cigarette-archive/)** — 4 years of cigarette packs turned into a 3D monument of letting go · React, CSS 3D · [source](https://github.com/yunglordsimens/cigarette-archive)
+* **[Visual Cassette Hub](https://visual-cassette-hub.vercel.app)** — mobile-friendly gallery for a cassette collection · [source](https://github.com/yunglordsimens/visual-cassette-hub)
+* **[Mashenka](https://yunglordsimens.github.io/mashenka/)** — bilingual birthday event site with custom photography · [source](https://github.com/yunglordsimens/mashenka)
 
 ---
 
