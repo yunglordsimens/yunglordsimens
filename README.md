@@ -19,7 +19,7 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
   <tr>
     <td colspan="2" valign="top">
       <h4 align="center">UMPRUM TYPE</h4>
-      <a href="https://typoumprum.cz">
+      <a href="https://github.com/yunglordsimens/umprumtype">
         <img src="https://raw.githubusercontent.com/yunglordsimens/umprumtype/main/.github/readme/preview.gif" width="100%" style="border-radius: 5px;" alt="UMPRUM Type Preview" />
       </a>
       <p align="center"><b>Type Archive of the UMPRUM Studio of Typography</b><br>50 typefaces · kinetic home · live specimens · custom CMS<br>Astro 6, React 19, Canvas, Decap CMS<br><a href="https://typoumprum.cz">typoumprum.cz</a> · <a href="https://github.com/yunglordsimens/umprumtype">source</a></p>
@@ -29,7 +29,7 @@ Multidisciplinary Designer & Developer. Focus on digital typography, creative co
   <tr>
     <td colspan="2" valign="top">
       <h4 align="center">6000OVECEK × EVRO661</h4>
-      <a href="https://evro661.vercel.app">
+      <a href="https://github.com/yunglordsimens/evro661">
         <img src="https://raw.githubusercontent.com/yunglordsimens/evro661/main/.github/readme/preview.gif" width="100%" style="border-radius: 5px;" alt="6000ovecek × EVRO661 Preview" />
       </a>
       <p align="center"><b>Charity Event Site · Strahov Stadium, Prague 2026</b><br>3D barn-door entrance · lineup with artist panels · UA / EN / CZ · proceeds fund FPV drones for Ukraine<br>Three.js, WebGL post-processing, Vanilla JS<br><a href="https://evro661.vercel.app">evro661.vercel.app</a> · <a href="https://github.com/yunglordsimens/evro661">source</a></p>
